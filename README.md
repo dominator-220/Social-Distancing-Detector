@@ -15,9 +15,9 @@ The demos below will help to visually explain the approach that consists of thre
 
 
 ### Output (Video)
-This demo video is performed on on of the most crowded area in Delhi.
+This demo video is performed on one of the most crowded area in Delhi.
 
-![This demo video is performed on on of the most crowded area in Delhi](https://github.com/dominator-220/Social-Distancing-Detector/blob/main/videos/output.gif)
+![This demo video is performed on one of the most crowded area in Delhi](https://github.com/dominator-220/Social-Distancing-Detector/blob/main/videos/output.gif)
 
 
 ### Requirements:
